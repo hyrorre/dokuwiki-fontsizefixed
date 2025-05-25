@@ -1,0 +1,7 @@
+base   fontsizefixed
+author hyrorre
+email  hiromu.yamashita@hotmail.com
+date   2025-05-25
+name   Font Size Plugin Fixed
+desc   Allow different font sizes.
+url    https://www.dokuwiki.org/plugin:fontsizefixed
